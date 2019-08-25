@@ -1,2 +1,5 @@
 # test
-test for jgit
+
+test for JGit & GitHub API.
+
+Some sample content for test purpose.
